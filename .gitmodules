@@ -1,0 +1,3 @@
+[submodule "teste/teste/quasar"]
+	path = teste/teste/quasar
+	url = https://github.com/ClaraLarces/quasar.git
